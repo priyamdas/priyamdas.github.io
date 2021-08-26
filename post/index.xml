@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Priyam Das</title>
-    <link>https://priyamdas.github.io/author/priyam-das/</link>
-      <atom:link href="https://priyamdas.github.io/author/priyam-das/index.xml" rel="self" type="application/rss+xml" />
-    <description>Priyam Das</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <title>Posts | Priyam Das</title>
+    <link>https://priyamdas.github.io/post/</link>
+      <atom:link href="https://priyamdas.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 25 Aug 2021 19:17:29 -0700</lastBuildDate>
     <image>
-      <url>https://priyamdas.github.io/author/priyam-das/avatar_hu6cf775c68790a9a6ba6125efe87931f3_908038_270x270_fill_q90_lanczos_center.jpg</url>
-      <title>Priyam Das</title>
-      <link>https://priyamdas.github.io/author/priyam-das/</link>
+      <url>https://priyamdas.github.io/images/icon_huf8e3127d14e503ab69ceb2be5b6e95b6_12081_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>https://priyamdas.github.io/post/</link>
     </image>
     
     <item>
